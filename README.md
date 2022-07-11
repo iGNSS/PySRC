@@ -6,6 +6,12 @@ This is a collection of Pyhton scripts written during my PhD study. Mostly, thes
 ## miscellaneous
 
 ## plot
+### Orbit
+### Clock
+### Troposphere
+### Ionosphere
+### TRF
+### EOP
 
 ## scripts
 
