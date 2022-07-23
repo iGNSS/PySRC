@@ -10,8 +10,9 @@ This is a collection of Pyhton scripts written during my PhD study. Mostly, thes
 ### Clock
 ### Troposphere
 ### Ionosphere
-### TRF
-### EOP
+### Terrestrial Reference Frame (TRF)
+### Earth Orientation Parameters (EOPs)
+### Satellite Laser Ranging (SLR)
 
 ## scripts
 
